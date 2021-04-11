@@ -6,3 +6,7 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 ![postman_request_output](screenshots/postman.jpg)
 # Postman Screenshot (with localhost:5000)
 ![postman_request_output](screenshots/postman2.jpg)
+# Formatted Index Page 
+![formattedIndex](screenshots/formattedIndex.jpg)
+# Formatted Postman Output
+![formattedPostman](screenshots/formattedPostman.jpg)
